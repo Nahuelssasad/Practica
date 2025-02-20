@@ -1,2 +1,2 @@
-nommbre = "Horacion"
+nommbre = "Juan"
 print("hola" + nommbre)
