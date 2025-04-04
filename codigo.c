@@ -28,6 +28,7 @@ int main(void)
     {
         printf("%i ",matriz[j]);
     }
+    printf("HOLA ME LLAMO NICO")
 
 
 }
