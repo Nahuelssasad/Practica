@@ -15,7 +15,7 @@ merge(int A[],int lowerLimit,int mid,int upperLimit)
     while((i < mid) && (j < upperLimit))
     {
 
-        ifA[i] <= A[j]
+        if(A[i] <= A[j])
         {
             arrayAuxiliar[k] = A[i];
         }
