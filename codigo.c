@@ -12,7 +12,7 @@ int main(void)
         int temp = 0;
         for(int j = 0;j < 4 ; j++)
         {
-            if(matriz[j] > matriz[j+1])
+            ifmatriz[j] > matriz[j+1]
             {
                 temp = matriz[j];
                 matriz[j] = matriz[j+1];
